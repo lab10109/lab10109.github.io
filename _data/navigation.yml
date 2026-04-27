@@ -12,8 +12,8 @@ main:
   # - title: "荣誉奖项"
   #   url: "/#-ryjx"
 
-  # - title: "项目基金"
-  #   url: "/#-xshy"
+  - title: "项目基金"
+    url: "/#-xshy"
 
   # - title: "工作实习"
   #   url: "/#-gzsx"
