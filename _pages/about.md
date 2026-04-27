@@ -16,10 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👨‍🔬 简介
 
+<img src="/images/Libo Liu.PNG" width="130" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 5px;" alt="刘立波">
 刘立波，宁夏科技领军人才，博士，博士后，教授，博士生导师。研究方向涉及智能信息处理，计算机视觉、图像处理与模式识别，数据库技术及应用、云计算与物联网的应用研究等。主持完成国家自然基金项目2项，北京市博士后项目1项，中科院西部之光人才项目1项，宁夏自然基金项目5项，宁夏重点研发计划项目2项；主持在研国家自然基金项目1项，宁夏自然基金重点项目1项，合作在研宁夏重点研发项目1项；参与国家级、自治区级项目多项；发表高水平文章多篇；获宁夏科技进步二等奖2次，宁夏自然科学优秀学术论文一等奖1次，二等奖1次，三等奖2次；成果登记5项，授权发明专利1项，成果转化1项；出版专著1部，教材1部，指导本科生获国家级竞赛奖项二等奖1项，国家级、自治区级大学生创新项目多项。
+<div style="clear: both; margin-bottom: 30px;"></div>
 
+<img src="/images/Ruonan Zhang.JPG" width="130" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 5px;" alt="张若楠">
 张若楠，博士，准聘副教授，硕士生导师，毕业于北京大学。研究方向：量子启发式多源异构信息感知、推理与决策、面向人机感知共友好的多媒体处理与分析（感知、融合、检索增强等）、情感计算。曾就职于华为技术有限公司与鹏城实验室。近年来在智能交通、遥感等领域顶级期刊发表SCI TOP期刊及国际会议24余篇，主持国家级项目1项，银川市项目1项，参与省部级以上项目4项、已授权专利5项。目前为多个相关领域期刊、会议审稿人。邮箱：zhangrn@nxu.edu.cn。
+<div style="clear: both; margin-bottom: 30px;"></div>
   
 
 
@@ -35,131 +40,122 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/tcsvt.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Lei Chen, Zhen Deng, Libo Liu(*), and Shibai Yin. Multilevel Semantic Interaction Alignment for Video–Text Cross-Modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, DOI 10.1109/TCSVT.2024.3360530. (SCI 1区top)  
+[[网页]](https://ieeexplore.ieee.org/document/10417062/) [[预览]](https://nicelab.swufe.edu.cn/__local/3/CE/16/7CBD499D6C89D3445871AF1F2A3_39183D1F_3D8E7F.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/ICME.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	Zhonghao Zhang, Ruonan Zhang, Libo Liu(*). UniBind: Leveraging LLM-Augmented Knowledge Base for Scene Integration. (ICME2025,CCF B)  
+[[网页]](https://www.computer.org/csdl/proceedings-article/icme/2025/11209220/2beBgvcJtPW)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+-	Jiayi Ding, Libo Liu. Fusing dynamic scene-aware augmentation with adaptive matching reweighting for object detection. Expert Systems with Applications. (SCI 1区top)  
+[[网页]](https://doi.org/10.1016/j.eswa.2026.132457) 
 
 </div>
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+- Tingting Gou, Libo Liu, Qian Liu and ZhenDeng. A new approach to Cross-modal retrieval. The 5th Annual International Conference on Network and Information Systems for Computers, 318-327. (EI)  
+[[网页]](https://iopscience.iop.org/article/10.1088/1742-6596/1288/1/012044) [[预览]](https://iopscience.iop.org/article/10.1088/1742-6596/1288/1/012044/pdf)
 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+- Chen Yang, Zongyong Deng, Tianyu Li, Hao Liu, and Libo Liu(*). Variational Deep Representation Learning for Cross-Modal Retrieval. PRCV 2021, LNCS 13020, pp. 498–510. (CCF-C, 会议)  
+[[网页]](https://www.researchgate.net/publication/355489820_Variational_Deep_Representation_Learning_for_Cross-Modal_Retrieval)
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+- Rongzhao Wang, Libo.Liu(*).Paint to Better Describe: Learning Image Caption by Using Text-to-Image Synthesis.Intl Conf on Cyber Science and Technology Congress (CyberSciTech 2021). (EI)  
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+-	Yulei Huang, Libo Liu. Soft-label guided unsupervised feature selection with orthogonal anchor basis. Information Sciences. (SCI 1区top)  
+[[网页]](https://doi.org/10.1016/j.ins.2026.123422)
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
-
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
-
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+-	Yulei Huang, Libo Liu. Enhanced non-negative matrix factorization via adaptive weighted bipartite graph learning for clustering problems. Neurocomputing. (SCI 2区top)
+[[网页]](https://doi.org/10.1016/j.neucom.2025.130871)
 
 ### 中文
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 	刘立波, 赵斐斐. 融合注意力机制的枸杞虫害图文跨模态检索方法[J]. 农业机械学报, 2022, 53(2): 299-308. (EI, 高质量科技期刊T1)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0AuTk98flivze0bnnGSNsHQJ84r_QmugHhfE_7_djqgFsoFGFEX80sVTenmyXyWTyoQP9_CigPFpqvDQ1OTi9uYZf10vSxboaHPp3A792N9Smn1Ap28jjT4x-U1C3kko7Er9VHDKAfPn5MMD4DPCCGrBYYFDdEbHJQg=&uniplatform=NZKPT) 
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 杨晨，刘立波(*). 图文跨模态检索的概率分布表示学习[J]. 计算机辅助设计与图形学学报，2022, 34(5): 751-759. (EI,高质量科技期刊T1) 
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0Avj5-Obz1hQ9ButKY8LdRn83NkAnRRZmiib1QMHNPxLndhgaOTrSID9gS-obKkrnNEJtcNFomUt7JGYzUqoabeoevtYTlIeg4J4bHyIg_jDw8HE7OeVE8Tfq1R4FBJfSjOi9hZWwrH4BmngfhH07iK3EDFjxcg18tI=&uniplatform=NZKPT) 
 
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
+- 	刘立波, 王涛, 张鹏. 基于CNN-S-GPR的宁夏枸杞高光谱影像估产方法[J]. 农业机械学报, 2022, 53(8): 250-257. (EI,高质量科技期刊T1)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0AvW6-7fl9a1q6vamck1XOyMNV7pMl05B_yein_WWu4d_mfLkMlC3gNR-p3xaGGuZhcmJQGhXT0FW5Bjoc18JghMFcYWc3Hf1Gd3KKxkCXuuijHEve5coqW1U5SU70MytzQik1YyklmdrRLn-t6oox8RHQYP9HXxSaw=&uniplatform=NZKPT) 
 
 
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 	刘元峰, 姬海军, 刘立波(*). 基于YOLOv5s的高速公路车辆实时检测模型[J]. 液晶与显示, 2022, 37(9): 1228-1241. (高质量科技期刊T2)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0Aujn19gdQjvn7aIMlJVBVbX_wBzXMpu8iyeeGSz0n9o3jDY4A-BFGkBmkcxogpHY7nscik0L8RvhSUAPGF5bOh1dQTDO2ZuDDhCzAOHqD2qOedLq-GkIUD70FV13Ibcs4pA7njLchLpTIX9HB5xSAwDXy9diqUy3Fc=&uniplatform=NZKPT)   
 
 
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
+- 	田战胜, 刘立波(*). 基于改进Transformer的细粒度图像分类模型[J]. 激光与光电子学进展, 2023, 60(2): 0210013-1~0210013-8. (高质量科技期刊T2)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0At457tn07VqUFecXaN1PsC9g7S4GELRG2jAhvdgxLNX0ZENlQP83pO7pD6wQ--_ZCu2ohf2lbuqkt_KHlQpAFaFNGGQoHT1YZPhN-q0GKy0N6bl_H9lwHC7zF_gNHfAC6J19s9nLhyY0sBwBj9FVQfpiHqbYKlsNds=&uniplatform=NZKPT) 
+
+-	李天煜, 刘立波(*). 基于模态内相似性与语义保留的深度跨模态哈希[J]. 数据分析与知识发现, 2023, 77(5): 105-115. (CSSCI, 核心期刊)   
+[[网页]](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2022-0536) 
+
+- 	刘立波, 郗思宇, 邓箴(*). 结合改进ConvNeXt网络与知识蒸馏的天气识别[J]. 光学精密工程, 2023, 31(14): 2123-2134. (高质量科技期刊T1)   
+
+
+- 	吕晓华, 魏铭辰, 刘立波(*). 基于位置可学习视觉中心机制的零售商品检测方法[J]. 物联网学报, 2023, 7(4): 142-152. (高质量科技期刊T1)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0AuIJfkyUqm_05N6_0FhGJKCPx2wKpzsUqKmQoEJfdqLLTOZZ-mlMJaP5z_j3IVDJDLXyUUhwuXool-W1xrWwoxRyruzcvzHhN2g_ztweOlD9IGgmJyAL0RC4sn0s6BJm6dWVwBmqcrnjCzjI-W_AR8sz5hMn6XbuPA=&uniplatform=NZKPT)
 
 
 
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
+- 	王詠森, 刘倩, 刘立波(*). 基于非对称卷积和门控前馈神经网络的语音识别模型[J]. 中文信息学报, 2025, 39(1): 167-174. (高质量科技期刊T1)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0AuyZ-pRbuZT31nrK_tP5zU5aRv4ApqfIc1sdG409-f3_dlqCzm5gOv_Xs4T3T-_ZqTpz8vw8kzItw2b3rjq80gxIVjLTfgLfj_rMAAnHvdYIGQuPyguNDin94GxY8njtwffLZt_ZeiWENNSGNpIAHj05yj1eHUyXHU=&uniplatform=NZKPT) 
 
-### 专利
+- 	习怡萌, 刘立波(*), 刘倩, 邓箴. 多级跨模态对齐的文本检索视频研究[J]. 中文信息学报. (高质量科技期刊T1)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0AtX_5ZoYVTK2vpwaNjKQXIHSfZ6jLQ1QwNqDxh2AqIvL2-sGj0buFbW8SvTMig89RObf6mQTSove4f2f8F64g1PJ2FDYrOif5p6J3v-x6Ko8vXHApKrliko9q9JhMtegA6mgTlr6iHLSs5r29XUEB72hiLSg0XV-dU=&uniplatform=NZKPT)
+
+- 	习怡萌,邓箴,刘倩,等.跨模态信息融合的视频-文本检索[J].计算机应用,2025,45(08):2448-2456. (高质量科技期刊T2)
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=H8HwaL3t0As0pP8xlpoU6UYqelyfhcEO3ubqdGkRa2tt_O-q_jArNYcBjNlH8gAS--1UBb6oI6iAhvu5DDBGIa1KYXhhgLYIWtY7Nj-kQKLgEZpr6L1Isc7gIldq-pgGe0aKbIx_4baw5n9uTkGoWQyyR7W520ycuyuXjdn4flY=&uniplatform=NZKPT)
+
+### 专利著作
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+-  基于生成对抗网络的跨模态检索方法 专利号：ZL 2018 1 0871910.5.
+- 《医学图像处理案例分析研究》专著 科学技术文献出版社 2021.4.
+- 《人工智能创新实验教程》教材电子工业出版社 2024.6.
 
+<span class='anchor' id='-xshy'></span> -->
 
+# 🏛️ 项目基金
+- 国家自然科学基金，“文本-视频跨模态检索中的弱语义相关性研究”，（62262053），2023/01-2026/12，主持，在研
+- 国家自然科学基金，“量子启发式点云场景识别方法研究”，（62506179），2025/01-2028/12，主持，在研
+- 宁夏领军人才计划，（2022GKLRLX03），2023/01－2027/12，主持，在研
+- 宁夏重点研发计划项目，“面向慢阻肺防控管理的健康医疗大数据平台技术研究与应用”，（2021BEG03055），2022/07－2024/06，合作主持，在研
+- 宁夏自然基金重点项目，“视觉语言模型辅助的增量场景细粒度目标检测方法研究”，（2021BEG03024），2024/10－2027/9，主持，在研
+- 宁夏自然基金重点项目，“基于波粒二象性的点云场景识别方法研究”，（2026AAC050038），2026/10－2029/9，主持，在研
+- 国家自然科学基金，“基于深度学习的图像文本跨模态检索研究”（61751215），2018/01-2018/12，主持，结题
+- 国家自然科学基金，“生成对抗网络在图像文本跨模态检索中的研究”，（61862050），2019/01-2022/12，主持，结题
+- 宁夏重点研发计划项目，“视频大数据下的高速公路异常事件智能分析系统研发与应用”，（2021BEG03024），2021/01－2023/12，主持，结题
+- 宁夏自然科学基金，“基于深度学习的医学超声影像智能诊断方法研究”，（NZ17010）（2017/07－2018/12），主持，结题
+- 宁夏自然科学基金，“结合注意力机制的细粒度图像分类方法研究”，（2020AAC03031），2020/07－2022/07，主持，结题
+- 赛尔网络下一代互联网技术创新项目，“基于IPv6的甲状腺结节在线智能诊断系统”（NGII20180709），2018/01-2018/12，主持，结题
+- 宁夏回族自治区教改项目，“面向计算思维的多维混合式翻转教学模式研究——以《数据库原理》课程为例”，2019/09-2022/9，主持，结题
 
+<!-- <span class='anchor' id='-ryjx'></span> -->
 
-
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
+<!-- # 🏅 荣誉头衔
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
 
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
-
-<span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
