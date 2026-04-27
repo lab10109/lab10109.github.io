@@ -40,7 +40,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/tcsvt.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/tcsvt.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Lei Chen, Zhen Deng, Libo Liu(*), and Shibai Yin. Multilevel Semantic Interaction Alignment for Video–Text Cross-Modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, DOI 10.1109/TCSVT.2024.3360530. (SCI 1区top)  
@@ -49,7 +49,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/ICME.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ICME.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Zhonghao Zhang, Ruonan Zhang, Libo Liu(*). UniBind: Leveraging LLM-Augmented Knowledge Base for Scene Integration. (ICME2025,CCF B)  
@@ -58,7 +58,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Jiayi Ding, Libo Liu. Fusing dynamic scene-aware augmentation with adaptive matching reweighting for object detection. Expert Systems with Applications. (SCI 1区top)  
