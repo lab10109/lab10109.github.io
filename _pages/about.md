@@ -17,27 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+刘立波，宁夏科技领军人才，博士，博士后，教授，博士生导师。研究方向涉及智能信息处理，计算机视觉、图像处理与模式识别，数据库技术及应用、云计算与物联网的应用研究等。主持完成国家自然基金项目2项，北京市博士后项目1项，中科院西部之光人才项目1项，宁夏自然基金项目5项，宁夏重点研发计划项目2项；主持在研国家自然基金项目1项，宁夏自然基金重点项目1项，合作在研宁夏重点研发项目1项；参与国家级、自治区级项目多项；发表高水平文章多篇；获宁夏科技进步二等奖2次，宁夏自然科学优秀学术论文一等奖1次，二等奖1次，三等奖2次；成果登记5项，授权发明专利1项，成果转化1项；出版专著1部，教材1部，指导本科生获国家级竞赛奖项二等奖1项，国家级、自治区级大学生创新项目多项。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+张若楠，博士，准聘副教授，硕士生导师，毕业于北京大学。研究方向：量子启发式多源异构信息感知、推理与决策、面向人机感知共友好的多媒体处理与分析（感知、融合、检索增强等）、情感计算。曾就职于华为技术有限公司与鹏城实验室。近年来在智能交通、遥感等领域顶级期刊发表SCI TOP期刊及国际会议24余篇，主持国家级项目1项，银川市项目1项，参与省部级以上项目4项、已授权专利5项。目前为多个相关领域期刊、会议审稿人。邮箱：zhangrn@nxu.edu.cn。
   
 
 
-<span class='anchor' id='-xl'></span>
+<!-- <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
 - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lwzl'></span> -->
 
 # 📝 论文专利
 
